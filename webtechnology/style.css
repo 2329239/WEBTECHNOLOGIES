@@ -1,0 +1,48 @@
+ul {
+    font-size: 20px;
+    color: darkblue;
+}
+#intro {
+    border: 5px solid #000;
+    font-size: 12px;
+  }
+  h1 {
+    border: 10px solid #000;
+    font-size: 30px;
+  }
+  a {
+    background-color: powderblue;
+    transition: background-color 0.5s;
+  }
+  a:hover {
+    background-color: gold;
+  }
+  Input[name="text"] {
+    font-size: 20px;
+    line-height: 1.2;
+  }
+  p {
+    font-size: 20px;
+    color: blue;
+}
+research {
+    font-size: 30px;
+    font-family: Verdana;
+}
+name {
+    font-size: 30px;
+    color: palevioletred;
+}
+Input[email="text"] {
+    font-size: 20px;
+    line-height: 1.2;
+}
+body {
+    background-color: lightblue;
+    margin: 1%;
+    padding: 1%;
+}
+img {
+    width: 300px;
+    height: 300px;
+}
