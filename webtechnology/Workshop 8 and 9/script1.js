@@ -125,7 +125,7 @@
 //     }
 
 // The consitiona(ternary) operators
-console.log(
-    `${country}'S population is ${population > 33 ? 'above' :'below'} average`,
-    );
+// console.log(
+//     `${country}'S population is ${population > 33 ? 'above' :'below'} average`,
+//     );
 
